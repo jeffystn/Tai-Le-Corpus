@@ -17,8 +17,8 @@
 #### 德宏傣文<code>/Tab</code>汉语</br>
 <code>ᥐᥝ ᥞᥢᥴ ᥔᥩᥒᥴ ᥑᥣᥴ ᥓᥩᥛᥰ ᥐᥢ ᥞᥭᥳ  我见他们俩相伴而行</code>
 <ul>
-<li><code>训练：MNT/train01.7z</code></li>
-<li><code>验证：MNT/test01.7z</code></li>
+<li><code>训练：MNT/train02.7z</code></li>
+<li><code>验证：MNT/test02.7z</code></li>
 </ul>
 
 ## 声明
